@@ -73,4 +73,16 @@ _solution_
   source devel/setup.bash
   ```
 2. cannot view the robot
-  [image](http://52.172.92.114/files/Screenshot%20from%202022-06-24%2022-59-37.png)
+  ![image](http://52.172.92.114/files/Screenshot%20from%202022-06-24%2022-59-37.png)
+  
+  * on the top left corner change the fixed frame : map to base_link
+  
+  ![image2](http://52.172.92.114/files/Screenshot from 2022-06-24 22-59-51.png)
+  
+  * finally on the bottom left corner 
+      * click on add 
+      * then click on the robot model option and click ok
+     
+  ![image3](http://52.172.92.114/files/Screenshot from 2022-06-24 23-00-21.png)
+  
+  ## finally boom there u gooo
