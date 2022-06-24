@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/advaith/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/advaith/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/advaith/catkin_ws/src/mastering_ros_robot_description_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
